@@ -184,8 +184,8 @@ python main.py
 
 ## Status
 
-✔ Completed
-✔ Models trained and evaluated
-✔ Results analyzed
+Completed
+Models trained and evaluated
+Results analyzed
 
 ---
